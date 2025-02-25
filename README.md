@@ -4,8 +4,7 @@ Welcome to the Weather App repository! This project is a web application that pr
 
 ## Features
 
-- **Live Weather Data**: Get up-to-date weather information for your current location or search for any city worldwide.
-- **5 Days Forecast**: You Can See your city 5 days forecast 
+- **Live Weather Data**: Get up-to-date weather information for your current location or search for any city worldwide
 - **Explore Section**: You Can See Many Random City Weather On Explore Section
 - **Add More Citys**: You Can Add More Citys 
 
